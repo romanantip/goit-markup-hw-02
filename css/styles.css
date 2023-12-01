@@ -85,7 +85,10 @@ ul {
 
 /* section description */
 
-.team .portfolio {
+.team {
+  line-height: 1.11;
+}
+.portfolio {
   color: #2e2f42;
   text-align: center;
   font-size: 36px;
@@ -114,6 +117,22 @@ ul {
 
 .team-photo {
   background-color: #f4f4fd;
+}
+.team-names {
+  color: #2e2f42;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.team-discr {
+  color: #434455;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 /* portfolio */
