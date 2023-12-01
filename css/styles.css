@@ -84,10 +84,10 @@ ul {
   cursor: pointer;
 }
 .button :hover {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .button :focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 .button-text {
@@ -118,9 +118,6 @@ ul {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-}
-.pcolor {
-  background-color: #ffffff;
 }
 
 .tittle-description {
