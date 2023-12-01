@@ -86,12 +86,13 @@ ul {
 /* section description */
 
 .team {
+  color: #2e2f42;
   line-height: 1.11;
   text-align: center;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .portfolio {
@@ -100,7 +101,7 @@ ul {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: 0.02;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 
@@ -151,7 +152,7 @@ ul {
   letter-spacing: 0.4px;
 }
 .apps-discr {
-  color: #434455;
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
