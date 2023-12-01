@@ -105,7 +105,9 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-
+.list-discr {
+  background-color: #ffffff;
+}
 .tittle-description {
   color: #2e2f42;
   font-size: 20px;
