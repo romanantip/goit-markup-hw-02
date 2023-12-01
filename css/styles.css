@@ -119,6 +119,9 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.pcolor {
+  background-color: #ffffff;
+}
 
 .tittle-description {
   color: #2e2f42;
@@ -141,9 +144,6 @@ ul {
   background-color: #f4f4fd;
 }
 
-.team-color {
-  background-color: #ffffff;
-}
 .team-names {
   color: #2e2f42;
 
