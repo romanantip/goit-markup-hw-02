@@ -140,12 +140,10 @@ ul {
 .team-photo {
   background-color: #f4f4fd;
 }
-.team-color {
-  background-color: #ffffff;
-}
+
 .team-names {
   color: #2e2f42;
-
+  background-color: #ffffff;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -153,7 +151,7 @@ ul {
 }
 .team-discr {
   color: #434455;
-
+  background-color: #ffffff;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
