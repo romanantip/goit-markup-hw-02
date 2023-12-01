@@ -17,7 +17,7 @@ ul {
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
-  letter-spacing: 0.54px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .header-studio {
@@ -25,8 +25,8 @@ ul {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.54px;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .footer-studio {
@@ -34,16 +34,16 @@ ul {
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.54px;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .header-list {
   font-size: 16px;
   font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 /* contacts */
@@ -53,7 +53,8 @@ ul {
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
+  font-style: normal;
 }
 
 /* main */
@@ -66,8 +67,8 @@ ul {
   text-align: center;
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px;
-  letter-spacing: 1.12px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
 }
 
 .button :hover,
@@ -79,8 +80,8 @@ ul {
   color: #ffffff;
   font-size: 16px;
   font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.64px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 
 /* section description */
@@ -109,16 +110,16 @@ ul {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
-  letter-spacing: 0.4px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .paragraph-description {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 /* section team-photo */
 
@@ -149,14 +150,14 @@ ul {
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: 0.4px;
+  letter-spacing: 0.02em;
 }
 .apps-discr {
-  color: #2e2f42;
+  color: #434455;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.02em;
 }
 
 /* footer */
@@ -166,13 +167,13 @@ ul {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .footer-discr {
   color: #f4f4fd;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0.32px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
