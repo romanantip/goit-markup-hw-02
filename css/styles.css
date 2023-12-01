@@ -75,6 +75,7 @@ ul {
   letter-spacing: 0.02em;
 }
 .button {
+  background-color: #4d5ae5;
   color: #434455;
 }
 .button :hover {
