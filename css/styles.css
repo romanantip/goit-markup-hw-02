@@ -76,7 +76,7 @@ ul {
 }
 .button {
   background-color: #4d5ae5;
-  color: #4d5ae5;
+  color: #ffffff;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -139,6 +139,9 @@ ul {
 
 .team-photo {
   background-color: #f4f4fd;
+}
+.team-color {
+  background-color: #ffffff;
 }
 .team-names {
   color: #2e2f42;
