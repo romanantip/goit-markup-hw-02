@@ -69,6 +69,10 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.adress:hover,
+:focus {
+  color: #404bbf;
+}
 
 /* main */
 .tittle {
