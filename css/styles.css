@@ -4,6 +4,7 @@ body {
   font-family: 'Roboto', sans-serif;
   background-color: #ffffff;
   color: #434455;
+  text-decoration: none;
 }
 ul {
   list-style-type: none;
