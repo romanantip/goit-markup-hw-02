@@ -53,6 +53,9 @@ ul {
 
 /* contacts */
 .adress {
+  font-style: normal;
+}
+.adress {
   color: #434455;
   font-size: 16px;
   font-weight: 400;
