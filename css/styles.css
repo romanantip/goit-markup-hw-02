@@ -51,6 +51,12 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.header-list:hover {
+  color: #404bbf;
+}
+.header-list:focus {
+  color: #404bbf;
+}
 
 /* contacts */
 .adress-main {
